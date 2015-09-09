@@ -2,7 +2,7 @@
 
 #test
 
-echo Success!
+echo Success!!
 #echo Failure
 
 exit 0
